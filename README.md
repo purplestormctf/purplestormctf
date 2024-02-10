@@ -9,5 +9,5 @@ Feel free to get in touch with us 🐙
 
 * [Hack The Box](https://app.hackthebox.com/public/teams/overview/2944)<br/>
 * [Discord](https://discord.gg/JbGr5gA3KY)<br/>
-* [Twitter](https://twitter.com/purplestormctf)<br/>
+* [X](https://twitter.com/purplestormctf)<br/>
 * [Mastodon](https://defcon.social/@purplestormctf)
