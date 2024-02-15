@@ -8,6 +8,9 @@ We are a open for everyone ctf team. From beginner to people who do cybersecurit
 Feel free to get in touch with us 🐙
 
 * [Hack The Box](https://app.hackthebox.com/public/teams/overview/2944)<br/>
+* [Hack The Box CTF](https://ctf.hackthebox.com/team/overview/5420)<br/>
+* [CTFtime](https://ctftime.org/team/153013/)</br>
 * [Discord](https://discord.gg/JbGr5gA3KY)<br/>
+* [Mastodon](https://defcon.social/@purplestormctf)</br>
 * [X](https://twitter.com/purplestormctf)<br/>
-* [Mastodon](https://defcon.social/@purplestormctf)
+
