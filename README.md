@@ -1,7 +1,7 @@
 ## Official purplestorm community GitHub page
 
 <p align="center">
-  <img src="https://github.com/purplestormctf/purplestormctf/blob/main/images/banner.jpg">
+  <img src="images/banner.jpg">
 </p>
 
 We are a open for everyone ctf team. From beginner to people who do cybersecurity stuff for years - everyone is welcome.<br/>
