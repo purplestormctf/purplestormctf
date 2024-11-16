@@ -12,5 +12,5 @@ Feel free to get in touch with us 🐙
 * [CTFtime](https://ctftime.org/team/153013/)</br>
 * [Discord](https://discord.gg/purplestorm)<br/>
 * [X](https://twitter.com/purplestormctf)<br/>
+* [Bluesky](https://bsky.app/profile/purplestormctf.bsky.social)</br>
 * [Mastodon](https://defcon.social/@purplestormctf)</br>
-
