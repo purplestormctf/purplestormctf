@@ -1,4 +1,4 @@
-## Official purplestorm community GitHub page
+## Official purplestorm cybersecurity community GitHub page
 
 <p align="center">
   <img src="images/banner.jpg">
