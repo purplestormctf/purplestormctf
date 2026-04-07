@@ -12,7 +12,7 @@ However, an interest in CTFs is not necessary to have a good time in our communi
 </br></br>
 If this sound like a place you want to be, feel free to get in touch with us and join us on our Discord server 🐙
 
-* [Hack The Box](https://app.hackthebox.com/public/teams/overview/2944)<br/>
+* [Hack The Box](https://app.hackthebox.com/public/teams/2944)<br/>
 * [Hack The Box CTF](https://ctf.hackthebox.com/team/overview/5420)<br/>
 * [CTFtime](https://ctftime.org/team/153013/)</br>
 * [Discord](https://discord.gg/purplestorm)<br/>
